@@ -3,6 +3,8 @@ Twitter poll auto vote with multiple accounts using selenium with python
 
 Change the username and password on line 11, and replace the poll vote URL on line 106.
 
+From line 73, there are four lines containing XPath expressions. Indicate which of the four Twitter options you want to comment out and which you want to uncomment.
+
 ## Note: Use accounts that do not have two-factor authentication.
 
 Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that particular folder and enter c.py or double-click on the c.py file.
