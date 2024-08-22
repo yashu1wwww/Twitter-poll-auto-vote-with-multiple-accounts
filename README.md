@@ -7,7 +7,7 @@ Change the username and password on line 11, and replace the poll vote URL on li
 
 Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that particular folder and enter c.py or double-click on the c.py file.
 
-👉 Note: Every time Twitter updates the code, it varies. So press 'Ctrl+Shift+C' to open the developer tools, and inspect and fork it..
+## 👉 Note: Every time Twitter updates the code, it varies. So press 'Ctrl+Shift+C' to open the developer tools, and inspect and fork it..
 
 👉Note:-
 
