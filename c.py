@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
 import time
 
-# List of accounts with usernames and passwords
+# List of accounts with usernames and passwords add more if you want..
 accounts = [
     ("user1", "user2"),
     ("user2", "password2"),
