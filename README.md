@@ -1,13 +1,14 @@
 # Twitter-poll-auto-vote-with-multiple-accounts-
 Twitter poll auto vote with multiple accounts using selenium with python
 
-Change the username and password on the 22nd and 26th line & replace hashtag in 30th line.
-if you want with multiple Accs Then Copy From 16th line to End And Paste Again And Change Username & Pass.
-Note: Use accounts that do not have two-factor authentication.
+Change the username and password on line 11, and replace the poll vote URL on line 106.
 
-Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that particular folder and enter rl.py or double-click on the rl.py file.
+## Note: Use accounts that do not have two-factor authentication.
+
+Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that particular folder and enter c.py or double-click on the c.py file.
 
 👉 Note: Every time Twitter updates the code, it varies. So press 'Ctrl+Shift+C' to open the developer tools, and inspect and fork it..
+
 👉Note:-
 
 👉if your selenium version is in latest version then the code never run
