@@ -1,9 +1,7 @@
 # Twitter-poll-auto-vote-with-multiple-accounts-
 Twitter poll auto vote with multiple accounts using selenium with python
 
-Change the username and password on line 11, and replace the poll vote URL on line 106.
-
-From line 73, there are four lines containing XPath expressions. Indicate which of the four Twitter options you want to comment out and which you want to uncomment.
+# Change the username and password
 
 ## Note: Use accounts that do not have two-factor authentication.
 
